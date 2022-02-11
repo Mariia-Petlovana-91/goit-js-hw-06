@@ -1,22 +1,26 @@
+// function getRandomHexColor() {
+//   return `#${Math.floor(Math.random() * 16777215).toString(16)}`;
+// }
 
+// const inputRef = document.querySelector('input');
+// const createBtnRef = document.querySelector('[data-create]');
+// const destroyBtnRef = document.querySelector('[data-destroy]');
+// const boxesRef = document.querySelector('div#boxes');
 
+ 
 
+// function createBoxes(amount) {
+//     amount === inputRef.value;
+//  const divEL = document.createElement('div');
+//     divEL.style.backgroundColor = getRandomHexColor();
+//     divEL.style.width = '30';
+//     divEL.style.height = '30';
+// boxesRef.append(divEL);
+// }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// function destroyBoxes() {
+    
+// }
 
 
 
